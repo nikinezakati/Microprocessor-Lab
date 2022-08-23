@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>C:\Users\nikinezakati\AppData\Local\Temp</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>12</LINE></START>
+  <OC1><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>127</LINE></OC1>
+  <BEGIN><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>31</LINE></BEGIN>
+  <BEGINREVERSE><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>49</LINE></BEGINREVERSE>
+  <TIMER><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>61</LINE></TIMER>
+  <DISPLAY1><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>79</LINE></DISPLAY1>
+  <CONVERT><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>154</LINE></CONVERT>
+  <DELAY><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>198</LINE></DELAY>
+  <SETVAL><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>120</LINE></SETVAL>
+  <DISPLAY2><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>150</LINE></DISPLAY2>
+  <C1><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>159</LINE></C1>
+  <C2><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>163</LINE></C2>
+  <C3><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>167</LINE></C3>
+  <C4><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>171</LINE></C4>
+  <C5><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>175</LINE></C5>
+  <C6><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>179</LINE></C6>
+  <C7><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>183</LINE></C7>
+  <C8><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>187</LINE></C8>
+  <C9><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>191</LINE></C9>
+  <C10><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>194</LINE></C10>
+  <L1><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>199</LINE></L1>
+  <L2><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>200</LINE></L2>
+  <L3><FILE>\\Mac\Home\Desktop\Az rizpar\NikiNezakati_LAB3_98522094\AVR\lab3.asm</FILE><LINE>201</LINE></L3>
+ </LABELS>
+</ASSEMBLER_INFO>

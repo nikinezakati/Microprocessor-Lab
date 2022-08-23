@@ -1,0 +1,4 @@
+main DSTACK_USAGE:3 DSTACK_LEVEL:3 FILE:"lab7.c" LINE:52
+ftoa DSTACK_USAGE:13 DSTACK_LEVEL:16 FILE:"C:\cvavr\lib\stdlib.lib" LINE:959
+floor DSTACK_USAGE:4 DSTACK_LEVEL:20 FILE:"C:\cvavr\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:24 FILE:"C:\cvavr\lib\math.lib" LINE:544

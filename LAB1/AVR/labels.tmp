@@ -1,0 +1,52 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>C:\Users\nikinezakati\AppData\Local\Temp</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <BEGIN><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>22</LINE></BEGIN>
+  <BEGINREVERSE><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>32</LINE></BEGINREVERSE>
+  <FORWARD0><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>44</LINE></FORWARD0>
+  <REVERSE0><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>75</LINE></REVERSE0>
+  <Start><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>39</LINE></Start>
+  <FORWARD1><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>50</LINE></FORWARD1>
+  <DISPLAY><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>107</LINE></DISPLAY>
+  <FORWARD2><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>57</LINE></FORWARD2>
+  <FORWARD3><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>64</LINE></FORWARD3>
+  <FORWARD4><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>70</LINE></FORWARD4>
+  <REVERSE1><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>82</LINE></REVERSE1>
+  <REVERSE2><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>89</LINE></REVERSE2>
+  <REVERSE3><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>96</LINE></REVERSE3>
+  <REVERSE4><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>102</LINE></REVERSE4>
+  <CONVERT><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>140</LINE></CONVERT>
+  <DELAY><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>184</LINE></DELAY>
+  <C1><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>145</LINE></C1>
+  <C2><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>149</LINE></C2>
+  <C3><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>153</LINE></C3>
+  <C4><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>157</LINE></C4>
+  <C5><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>161</LINE></C5>
+  <C6><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>165</LINE></C6>
+  <C7><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>169</LINE></C7>
+  <C8><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>173</LINE></C8>
+  <C9><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>177</LINE></C9>
+  <C10><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>180</LINE></C10>
+  <L1><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>185</LINE></L1>
+  <L2><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>186</LINE></L2>
+  <L3><FILE>\\Mac\Home\Desktop\Az rizpar\LAB2\AVR\lab2.asm</FILE><LINE>187</LINE></L3>
+ </LABELS>
+</ASSEMBLER_INFO>
